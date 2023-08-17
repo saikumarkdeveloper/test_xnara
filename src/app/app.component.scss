@@ -1,0 +1,32 @@
+.container {
+    margin: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .inner-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .inner-table th, .inner-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+    width:25%;
+  }
+  
+  p {
+    font-weight: bold;
+    color: red;
+  }
+  
